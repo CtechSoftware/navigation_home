@@ -63,13 +63,14 @@ Las contribuciones son bienvenidas. Si encuentras un error o tienes una idea par
 
 * **Elvis Suarez Ramos** - Desarrollador Principal
 
-_Siéntete libre de conectar conmigo en [whasapp](+51966333047) o [Tu_SitioWeb](https://camilatech.com)._
+_[Contáctame por WhatsApp](https://wa.me/51966333047?text=Hola%20vengo%20del%20proyecto%20Navicury)._
 
 ---
 <p align="center">
   Hecho con ❤️ en Huancayo - Perú
 </p>
 ````
+
 
 
 
