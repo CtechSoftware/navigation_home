@@ -14,7 +14,7 @@ Bienvenido a **Navicury** by ctechSotware
 ## 📸 Capturas de Pantalla
 | Vista 1 | Vista 2 |
 |:---:|:---:|
-| ![Login]([URL_de_la_imagen_1](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/initScreen.jpg)) | ![main]([URL_de_la_imagen_2](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/navicuryScreen.jpg)) |
+| ![Login](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/initScreen.jpg) | ![main](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/navicuryScreen.jpg) |
 
 ---
 
@@ -66,6 +66,7 @@ _Siéntete libre de conectar conmigo en [whasapp](+51966333047) o [Tu_SitioWeb](
   Hecho con ❤️ en Huancayo - Perú
 </p>
 ````
+
 
 
 
