@@ -16,6 +16,10 @@ Bienvenido a **Navicury** by ctechSotware
 |:---:|:---:|
 | ![Login](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/initScreen.jpg) | ![main](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/navicuryScreen.jpg) |
 
+| Vista 3 | Vista 4 |
+|:---:|:---:|
+| ![Sliders](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/sliderScreen.jpg) | ![Detalles](https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/deviceDetails.jpg) |
+
 ---
 
 ## 🚀 Cómo Ejecutar el Proyecto
@@ -66,6 +70,7 @@ _Siéntete libre de conectar conmigo en [whasapp](+51966333047) o [Tu_SitioWeb](
   Hecho con ❤️ en Huancayo - Perú
 </p>
 ````
+
 
 
 
