@@ -12,7 +12,7 @@ Bienvenido a **Navicury** by ctechSotware
 ---
 
 ## 📸 Capturas de Pantalla
-| ![Imagen de la pantalla de login con el fondo del termostato y el botón de huella]([https://drive.google.com/file/d/167SLbtfP4LHx7ix-soTnqqnphyryOqeH/view?usp=sharing])) | ![Imagen de la pantalla principal con espacios y dispositivos]([https://drive.google.com/file/d/1B8TmuFi8_rDhdrdmT_pcXth4W_HF78K6/view?usp=drive_link]) | ![Imagen de la pantalla de control con los sliders de luz]([https://drive.google.com/file/d/1zz-wzHfU_odTqoDD8pkXdN4lKFglGTVu/view?usp=drive_link]) |
+| ![Imagen de la pantalla de login con el fondo del termostato y el botón de huella]([https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/initScreen.jpg])) | ![Imagen de la pantalla principal con espacios y dispositivos]([https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/navicuryScreen.jpg]) | ![Imagen de la pantalla de control con los sliders de luz]([https://github.com/CtechSoftware/navigation_home/blob/main/assets/images/sliderScreen.jpg]) |
 
 ---
 
@@ -64,4 +64,5 @@ _Siéntete libre de conectar conmigo en [whasapp](+51966333047) o [Tu_SitioWeb](
   Hecho con ❤️ en Huancayo - Perú
 </p>
 ````
+
 
