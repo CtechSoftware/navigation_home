@@ -3,19 +3,16 @@
 Bienvenido a **Navicury** by ctechSotware
 
 ---
-
 ## ✨ Características Destacadas
 
-* **Autenticación Segura:** Accede a tu hogar con un inicio de sesión por huella dactilar, rápido y seguro. 🔒
-* **Control de Ambientes:** Navega entre diferentes espacios (A, B, C) para gestionar dispositivos.
+* **simulacion de un inicio de sesión por huella dactilar. 🔒
+* **Control de Ambientes:** Ajusta la iluminación y otros parámetros con controles deslizantes (`sliders`).
 * **Gestión de Equipos:** Visualiza de un vistazo todos tus electrodomésticos y dispositivos conectados. 📺💡
-* **Control Preciso:** Ajusta la iluminación y otros parámetros con controles deslizantes (`sliders`).
 * **Interfaz Moderna:** Disfruta de un diseño elegante con un tema en azul marino, pensado para el confort visual.
-
 ---
 
 ## 📸 Capturas de Pantalla
-| ![Imagen de la pantalla de login con el fondo del termostato y el botón de huella]([https://i.imgur.com/your-login-image.png](https://drive.google.com/file/d/167SLbtfP4LHx7ix-soTnqqnphyryOqeH/view?usp=drive_link)) | ![Imagen de la pantalla principal con espacios y dispositivos]([https://i.imgur.com/your-home-screen.png](https://drive.google.com/file/d/1B8TmuFi8_rDhdrdmT_pcXth4W_HF78K6/view?usp=drive_link)) | ![Imagen de la pantalla de control con los sliders de luz]([https://i.imgur.com/your-sliders-screen.png](https://drive.google.com/file/d/1zz-wzHfU_odTqoDD8pkXdN4lKFglGTVu/view?usp=drive_link)) |
+| ![Imagen de la pantalla de login con el fondo del termostato y el botón de huella]([https://drive.google.com/file/d/167SLbtfP4LHx7ix-soTnqqnphyryOqeH/view?usp=sharing])) | ![Imagen de la pantalla principal con espacios y dispositivos]([https://drive.google.com/file/d/1B8TmuFi8_rDhdrdmT_pcXth4W_HF78K6/view?usp=drive_link]) | ![Imagen de la pantalla de control con los sliders de luz]([https://drive.google.com/file/d/1zz-wzHfU_odTqoDD8pkXdN4lKFglGTVu/view?usp=drive_link]) |
 
 ---
 
@@ -67,3 +64,4 @@ _Siéntete libre de conectar conmigo en [whasapp](+51966333047) o [Tu_SitioWeb](
   Hecho con ❤️ en Huancayo - Perú
 </p>
 ````
+
